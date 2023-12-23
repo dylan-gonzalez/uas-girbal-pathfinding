@@ -1,0 +1,96 @@
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\tsconfig.json
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\SD.Tools.Algorithmia.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\SD.Tools.BCLExtensions.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Dylan Gonzalez\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\tsconfig.json
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\SD.Tools.Algorithmia.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\SD.Tools.BCLExtensions.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\dylangonzalez\repos\pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\tsconfig.json
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\SD.Tools.Algorithmia.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\SD.Tools.BCLExtensions.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\Dylan Gonzalez\repos\UAS\girbal-pathfinding-web-app\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache

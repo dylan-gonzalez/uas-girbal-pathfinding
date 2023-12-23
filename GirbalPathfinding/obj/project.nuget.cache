@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEVd1xnajCQB1PaMAh1r7zc6XrLtHX2kgjpnhWkQA2PSZvoeGgn6yrudNbFschjKxpyPXShMPMYF7YQ2szjKfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dylan Gonzalez\\repos\\UAS\\GirbalPathfinding\\GirbalPathfinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\sd.tools.algorithmia\\1.4.0\\sd.tools.algorithmia.1.4.0.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\sd.tools.bclextensions\\1.2.2\\sd.tools.bclextensions.1.2.2.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

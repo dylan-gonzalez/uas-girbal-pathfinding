@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6+R7R8dCD41TFj1a2Gg2ud/xIrzcvk/H9cG2YONL7rdm4IZXGlQF4P6kzU2S9ZOJZ3ZUQdmEZjnWd8oOip+PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dylan Gonzalez\\repos\\UAS\\girbal-pathfinding-web-app\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\font.awesome\\5.15.4\\font.awesome.5.15.4.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.10\\microsoft.aspnetcore.jsonpatch.5.0.10.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.10.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\microsoft.typescript.msbuild\\4.4.2\\microsoft.typescript.msbuild.4.4.2.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\sd.tools.algorithmia\\1.4.0\\sd.tools.algorithmia.1.4.0.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\sd.tools.bclextensions\\1.2.2\\sd.tools.bclextensions.1.2.2.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\skiasharp\\2.80.3\\skiasharp.2.80.3.nupkg.sha512",
+    "C:\\Users\\Dylan Gonzalez\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
